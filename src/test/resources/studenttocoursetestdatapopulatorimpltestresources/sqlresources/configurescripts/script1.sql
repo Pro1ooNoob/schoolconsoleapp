@@ -1,0 +1,10 @@
+INSERT INTO school.courses (course_name, course_description) VALUES ('course1', 'info1');
+INSERT INTO school.courses (course_name, course_description) VALUES ('course2', 'info2');
+INSERT INTO school.courses (course_name, course_description) VALUES ('course3', 'info3');
+INSERT INTO school.courses (course_name, course_description) VALUES ('course4', 'info4');
+INSERT INTO school.students (first_name, last_name) VALUES ('firstName1', 'lastName1');
+INSERT INTO school.students (first_name, last_name) VALUES ('firstName2', 'lastName2');
+INSERT INTO school.students (first_name, last_name) VALUES ('firstName3', 'lastName3');
+INSERT INTO school.students (first_name, last_name) VALUES ('firstName4', 'lastName4');
+INSERT INTO school.students (first_name, last_name) VALUES ('firstName5', 'lastName5');
+INSERT INTO school.students (first_name, last_name) VALUES ('firstName6', 'lastName6');

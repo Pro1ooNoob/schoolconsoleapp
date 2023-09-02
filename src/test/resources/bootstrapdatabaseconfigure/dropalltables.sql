@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS school.courses CASCADE;
+DROP TABLE IF EXISTS school.groups CASCADE;
+DROP TABLE IF EXISTS school.students CASCADE;
+DROP TABLE IF EXISTS school.student_to_course CASCADE;

@@ -1,0 +1,17 @@
++---------------------------------------------------------------------+
+|                                                                     |
+|   A) Find all groups with less or equal students number.            |
+|                                                                     |
+|   B) Find all students related to the course with the given name.   |
+|                                                                     |
+|   C) Add a new student.                                             |
+|                                                                     |
+|   D) Delete a student by the student id.                            |
+|                                                                     |
+|   E) Add a student to the course (from a list).                     |
+|                                                                     |
+|   F) Remove the student from one of their courses.                  |
+|                                                                     |
+|   G) Terminate program execution                                    |
+|                                                                     |
++---------------------------------------------------------------------+

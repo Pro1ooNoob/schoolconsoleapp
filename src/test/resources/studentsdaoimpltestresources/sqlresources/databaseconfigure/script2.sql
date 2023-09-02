@@ -1,0 +1,12 @@
+INSERT INTO school.groups (group_name) VALUES ('CA-23');
+INSERT INTO school.groups (group_name) VALUES ('YY-40');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName1', 'lastName1');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName2', 'lastName2');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName3', 'lastName3');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName4', 'lastName4');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName5', 'lastName5');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName6', 'lastName6');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName7', 'lastName7');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName8', 'lastName8');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName9', 'lastName9');
+INSERT INTO school.students (group_id, first_name, last_name) VALUES (1,'firstName10', 'lastName10');
